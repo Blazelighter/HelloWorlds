@@ -13,6 +13,9 @@ Hello World programs in various languages. Demonstrates my development environme
 Languages used:
 * Python
 * C#
+* HTML
+* CSS
+* JavaScript
 
 # Useful Websites
 
