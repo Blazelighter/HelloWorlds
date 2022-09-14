@@ -1,6 +1,6 @@
 # Overview
 
-Hello World programs in various languages. Demonstrates my development environment.
+Hello World programs in various languages. Demonstrates my development environment, and languages known.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -22,7 +22,7 @@ Languages used:
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
+Add languages
+* C++
 * Item 2
 * Item 3
