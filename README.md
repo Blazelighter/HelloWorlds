@@ -1,12 +1,12 @@
 # Overview
 
-Hello World programs in various languages. Demonstrates my development environment, and languages known.
+"Hello World" programs in various languages. Demonstrates my development environment, and languages known.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Tools Used:
 * Visual Studio Code
 * Git / Github
 
@@ -25,7 +25,8 @@ Languages used:
 
 # Future Work
 
+Organize Files By Language
+
 Add languages
 * C++
-* Item 2
-* Item 3
+* Java
