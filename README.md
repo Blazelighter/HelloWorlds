@@ -19,9 +19,7 @@ Languages used:
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [BYUI Hello World Video Demonstration](https://video.byui.edu/media/t/1_zyyx43ke)
 
 # Future Work
 
